@@ -156,6 +156,7 @@ Here are Illustrated the functionality of MyDictionary class, where were created
 
 ### Result
 
-```c#
+![N|Solid](https://github.com/shtigran/MyDictionary/blob/master/My_Dictionary.jpg)
 
-```
+As You can see it is easy to use.
+
